@@ -15,7 +15,7 @@ Deploy a Rest Service using Spring Boot
 
 # Tecnologias utilizadas
 ## Back end
-- Java
+- OpenJdk (Java)
 - Spring Boot
 - Maven
 
