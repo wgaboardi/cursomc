@@ -1,6 +1,7 @@
-# Cursomc
-## Objetivo #
-Criar um servico Rest usando Spring Boot
+# Cursomc - 2021 #
+## Objective #
 
-- Classes: categoria
-- Servico: /categorias
+Deploy a Rest Service using Spring Boot
+
+- Domain: categoria
+- Resource: /categorias
