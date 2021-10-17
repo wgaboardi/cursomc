@@ -22,7 +22,7 @@ Deploy a Rest Service using Spring Boot
 # Como executar o projeto
 
 ## Back end
-Pré-requisitos: Java 11
+Pré-requisitos: OpenJdk 17, Maven 3.8.3
 
 ```bash
 # criar pasta
